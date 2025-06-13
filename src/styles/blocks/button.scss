@@ -1,6 +1,10 @@
 .button {
-  width: 324px;
+  width: 100%;
   border: 0;
+
+  @include onDekstop {
+    width: 411px;
+  }
 
   height: 56px;
   background-color: rgba(41, 41, 41, 1);
