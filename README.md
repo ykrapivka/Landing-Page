@@ -1,4 +1,48 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+# 🌐 Landing Page
+
+A responsive and visually appealing landing page built with HTML, SCSS, and JavaScript. It shows the tech company's products. 
+
+## 🚀 Live Demo
+
+🔗 [View the Live Project](https://ykrapivka.github.io/Landing-Page/)
+
+## 🛠 Technologies Used
+
+- **HTML5** – Markup structure
+- **SCSS** – Styling with variables, nesting, and responsive design
+- **JavaScript (ES6)** – Interactivity and DOM manipulation
+
+## ✨ Features
+
+- **Modern Design** with clean layout
+- **Fully Responsive** for mobile, tablet, and desktop
+- **Smooth Scrolling** navigation
+- **Image Gallery** or content sections with animations
+- **Modular SCSS** architecture
+- **Vanilla JavaScript** functionality without frameworks
+
+## 🚀 Getting Started 
+
+### 1. Clone the repository:
+
+```bash
+git clone https://github.com/your-username/project-name.git
+cd project-name
+```
+
+### 2. Install dependencies:
+
+```bash
+npm install
+# or
+yarn install
+```
+
+### 3. Run the project locally:
+
+```bash
+npm start
+# or
+yarn start
+```
+
