@@ -26,7 +26,7 @@ A responsive and visually appealing landing page built with HTML, SCSS, and Java
 ### 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/project-name.git
+git clone https://github.com/ykrapivka/Landing-Page.git
 cd project-name
 ```
 
