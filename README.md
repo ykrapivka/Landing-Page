@@ -1,4 +1,4 @@
-# 🌐 Landing Page
+# 🌐 NOTHING(R) (Landing Page)
 
 A responsive and visually appealing landing page built with HTML, SCSS, and JavaScript. It shows the tech company's products. 
 
